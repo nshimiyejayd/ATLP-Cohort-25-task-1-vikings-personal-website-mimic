@@ -1,0 +1,124 @@
+
+#menus{
+    margin:auto;
+    width: 70%;
+    height: 30px;
+    margin-top: -10px;
+    display: flex;
+}
+#menus ul{
+    display: block;
+    margin-left: 20px;
+    margin-right: auto
+}
+#menus ul li{
+    margin-left: 10px;
+    list-style: none;
+    float: left;
+    padding: 8px;
+    padding-right: 30px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+}
+#menus ul li a{
+    color: inherit;
+    text-decoration: none;
+}
+
+#menus ul li:hover{
+    color: rgb(182, 179, 175);
+}
+
+#home-picture{
+    margin-top: 30px;
+}
+
+#home-picture img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer{
+    margin: auto;
+    width:60%;
+    text-align: center;
+    display: flex;
+    padding:10px;
+    margin-top: 75px;
+}
+#footer ul{
+    margin:auto;
+}
+#footer ul li{
+    float: left;
+    list-style: none;
+}
+
+#footer ul li img{
+    padding: 7px;
+}
+
+#tweeter{
+    margin-top:3px;
+}
+#youtube{
+    margin-top:5px;
+}
+#cloud{
+    margin-top:7px;
+}
+#copyriht{
+    display:flex;
+    margin-top:50px;
+    margin-left: 300px;
+    position: absolute;
+    font-size: 13px;
+}
+
+#about-content{
+    background-color:black;
+    height: 600px;
+    width: 61.31%;
+    margin: auto;
+    text-align: center;
+    margin-top: -16px;
+}
+#about-txt{
+    display: block;
+    padding-top: 60px;
+    background-color: white;
+    margin-left: 35px;
+}
+#audio-music{
+    margin-left:auto;
+    margin-right: auto;
+    width:50%;
+}
+#video-music{
+    margin-left:auto;
+    margin-right: auto;
+    width:50%;
+}
+#clients{
+    margin-left:200px;
+    width:50%
+}
+#press{
+    margin-left:auto;
+    margin-right: auto;
+    width:50%
+}
+#learn{
+    margin-left:auto;
+    margin-right: auto;
+    width:50%;
+    text-align:center;
+}
+#contact{
+    margin-left:auto;
+    margin-right: auto;
+    width:50%;
+    text-align:center;
+}
